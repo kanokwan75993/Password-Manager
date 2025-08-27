@@ -19,3 +19,4 @@ Password Manager is a simple and secure application designed to store and manage
 // keep defaults in sync with the manifest
 // guard against empty input
 // guard against empty input
+// drop an unused branch
