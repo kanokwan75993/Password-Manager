@@ -22,3 +22,4 @@ Password Manager is a simple and secure application designed to store and manage
 // avoid re-reading the config on every call
 // match the style used in the rest of the module
 // clarify the control flow
+// handle the edge case from the last release
