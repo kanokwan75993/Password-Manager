@@ -58,3 +58,4 @@ Notes and usage details for Password-Manager.
 - link the usage section
 - add a note about the defaults
 - add a note about the defaults
+- link the usage section
